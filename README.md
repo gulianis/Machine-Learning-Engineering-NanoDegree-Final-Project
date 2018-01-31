@@ -9,6 +9,8 @@ Final Project for Udacity Machine Learning Engineering Nanodegree
   -------------
   
   Jupyter Notebook 
+  
+  
   Python 2.7
   
   -------------
@@ -16,7 +18,15 @@ Final Project for Udacity Machine Learning Engineering Nanodegree
   -------------
   
   Uses Robert Shiller's data: U.S. Stock Markets 1871-Present and CAPE Ratio
+  
+  
   from his website: http://www.econ.yale.edu/~shiller/
+  
+  
   This is represented by ie_data (8).xls
+  
+  
   Full_Shiller_Data.csv is ie_data converted to csv
+  
+  
   Shiller_Main_Data.csv is relevant information from Full_Shiller_Data.csv
