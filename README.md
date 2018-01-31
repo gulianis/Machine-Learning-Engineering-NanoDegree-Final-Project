@@ -1,6 +1,6 @@
 # Machine-Learning-Engineering-NanoDegree-Final-Project
 Final Project for Udacity Machine Learning Engineering Nanodegree
-  The point of the project is to see if it is possible to time market (S&P). What a lot of investors say to do is hold money  in S&P over time to accumalte wealth. I wanted to see if Reinforcement Learning could be used to time the market and      predict when the market was going to go down and take money out during those time and predict when the market is going up and put money back in the market during those times. Specifically I'm using the Q-learning algorithm.
+    The point of the project is to see if it is possible to time market (S&P). What a lot of investors say to do is hold money    in S&P over time to accumalte wealth. I wanted to see if Reinforcement Learning could be used to time the market and          predict when the market was going to go down and take money out during those time and predict when the market is going up      and put money back in the market during those times. Specifically I'm using the Q-learning algorithm.
   -------------
   Prerequisites
   -------------
