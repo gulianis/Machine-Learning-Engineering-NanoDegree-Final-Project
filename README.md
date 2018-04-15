@@ -4,8 +4,8 @@ Final Project for Udacity Machine Learning Engineering Nanodegree
   Project Description
   --------------------
     The point of the project is to see if it is possible to time market (S&P 500). A lot of famous investors advise to hold     
-    money in S&P over time to accumalte wealth. I wanted to see if Reinforcement Learning could be used to time the market and          
-    beat the S&P 500 index. Specifically I used the Q-learning Reinforcement Learning algorithm.
+    money in S&P over time to accumalte wealth. I wanted to see if Reinforcement Learning based on historical data could be           
+    used to time the market and beat the S&P 500 index. Specifically I used the Q-learning Reinforcement Learning algorithm.
   -------------
   Prerequisites
   -------------
