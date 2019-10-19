@@ -32,3 +32,10 @@ Final Project for Udacity Machine Learning Engineering Nanodegree
   
   
   Shiller_Main_Data.csv is relevant information from Full_Shiller_Data.csv
+  
+  ----------------
+  For Application
+  ----------------
+  Code is in Machine Learning NanoDegree Code.ipynb
+  
+  I'm most proud of code in Learning Section
